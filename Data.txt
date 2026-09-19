@@ -1,0 +1,21 @@
+ID,Area,Priority,Package Weight
+1,Nasr City,2,4.5
+2,Maadi,1,2.0
+3,Nasr City,3,1.2
+4,Zamalek,1,7.0
+5,Maadi,2,3.0
+6,Heliopolis,3,5.5
+7,Dokki,1,6.8
+8,New Cairo,2,2.7
+9,Giza,3,4.1
+10,Mohandessin,1,3.6
+11,6th of October,2,8.3
+12,Sheikh Zayed,3,2.9
+13,Nasr City,1,5.2
+14,Maadi,3,6.0
+15,Zamalek,2,3.7
+16,Heliopolis,1,4.8
+17,Dokki,2,7.5
+18,New Cairo,3,1.9
+19,Giza,1,5.6
+20,Mohandessin,2,4.2
